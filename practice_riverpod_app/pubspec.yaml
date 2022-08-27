@@ -30,7 +30,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  riverpod: ^1.0.3
+  flutter_riverpod: ^1.0.4
   freezed_annotation: ^1.1.0
   audioplayers: ^0.20.1
 
